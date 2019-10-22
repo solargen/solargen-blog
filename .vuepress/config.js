@@ -56,9 +56,9 @@ function genGuideSidebar(isZh) {
             children: [""]
         },
         {
-            title: "技术文章",
+            title: "springscurity",
             collapsable: false,
-            children: []
+            children: ["springsecurity-quickstart"]
         }
     ]
 }
