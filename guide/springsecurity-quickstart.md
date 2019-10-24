@@ -4,9 +4,9 @@ sidebarDepth: 3
 
 # 入门
 
-## 前言
-
+::: tip
 由于springboot的发展，对于java的权限框架springsecurity的使用率也得到了快速提升，很多学生工作后都在询问springsecurity相关的问题，这里通过这篇技术文章由浅到深带大家学习一下springsecurity。
+:::
 
 ## 快速开始
 
